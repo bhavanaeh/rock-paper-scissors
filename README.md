@@ -48,7 +48,11 @@ $ python3 train.py
 ```sh
 $ python3 test.py <image_path>
 ```
-6. Play the game against the computer!
+6. Play the game against the computer! Press e to exit.
 ```sh
 $ python3 game.py
 ```
+
+## Output
+
+<p align="center"><img width=80% src="media/output.png"></p>
